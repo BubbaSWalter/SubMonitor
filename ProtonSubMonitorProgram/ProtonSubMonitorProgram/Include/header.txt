@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+	<head>
+		<meta charset="UTF-8">
+		<style>
+			body{
+				background:#000;
+				font-family: Arial;
+				font-size:14;
+				color:#FFF
+			}
+
+			ul{
+				list-style-type: none;
+				padding:0;
+				margin:0;
+			}
+			li{
+				padding:2.5px;
+			}
+			li:nth-child(odd){
+				background:#111;
+				color:#FFF
+			}
+			li:nth-child(even){
+				background:#222;
+				color:#FFF
+			}
+			.name{
+				background:#B22222;
+				padding:5px;
+				font-family: "Times New Roman";
+			}
+		</style>
+	</head>
+	<body>

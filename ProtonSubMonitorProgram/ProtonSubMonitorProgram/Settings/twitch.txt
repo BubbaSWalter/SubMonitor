@@ -1,0 +1,4 @@
+﻿BotName
+oauth:Oauth Gottenfrom twitchapps.com/tmi
+Channel_Name
+Client_ID

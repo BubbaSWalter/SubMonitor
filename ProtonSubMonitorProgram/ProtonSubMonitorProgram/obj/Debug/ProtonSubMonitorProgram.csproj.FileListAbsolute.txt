@@ -1,0 +1,783 @@
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe.config
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.pdb
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\netstandard.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.AppContext.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Console.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Data.Common.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Pipes.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Http.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Ping.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Requests.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Security.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Sockets.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ObjectModel.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Reader.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Writer.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Claims.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Principal.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.SecureString.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Thread.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Timer.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ValueTuple.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Api.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.PubSub.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\WebSocket4Net.dll
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe.config
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Form1.resources
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Properties.Resources.resources
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CopyComplete
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.pdb
+C:\Users\Robert\source\repos\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Settings\twitch.txt
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Settings\twitch.txt
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe.config
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.pdb
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\netstandard.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.AppContext.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Console.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Data.Common.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Pipes.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Http.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Ping.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Requests.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Security.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Sockets.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ObjectModel.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Reader.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Writer.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Claims.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Principal.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.SecureString.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Thread.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Timer.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ValueTuple.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Api.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.PubSub.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\WebSocket4Net.dll
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csprojAssemblyReference.cache
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe.config
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Form1.resources
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Properties.Resources.resources
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.GenerateResource.cache
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CoreCompileInputs.cache
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CopyComplete
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe
+C:\Users\Bubba\Desktop\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.pdb
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Settings\twitch.txt
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Include\Header.txt
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe.config
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.pdb
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\netstandard.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.AppContext.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Console.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Data.Common.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Pipes.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Http.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Ping.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Requests.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Security.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Sockets.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ObjectModel.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Reader.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Writer.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Claims.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Principal.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.SecureString.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Thread.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Timer.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ValueTuple.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Api.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.PubSub.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\WebSocket4Net.dll
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe.config
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Form1.resources
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Properties.Resources.resources
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.GenerateResource.cache
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CoreCompileInputs.cache
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CopyComplete
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.pdb
+C:\Users\Bubba\Desktop\Old\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Include\footer.txt
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Include\footer.txt
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Include\header.txt
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Settings\twitch.txt
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe.config
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.pdb
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\netstandard.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.AppContext.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Concurrent.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.NonGeneric.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Specialized.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Console.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Data.Common.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Debug.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Process.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tools.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Drawing.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Dynamic.Runtime.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Calendars.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Extensions.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Pipes.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Expressions.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Parallel.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Queryable.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Http.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NameResolution.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NetworkInformation.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Ping.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Requests.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Security.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Sockets.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ObjectModel.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Extensions.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Reader.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.ResourceManager.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Writer.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Extensions.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Handles.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Numerics.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Claims.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Principal.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.SecureString.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.RegularExpressions.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Overlapped.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Thread.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.ThreadPool.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Timer.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ValueTuple.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XDocument.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlDocument.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.xml
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe.config
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Form1.resources
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Properties.Resources.resources
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.GenerateResource.cache
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CoreCompileInputs.cache
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CopyComplete
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.pdb
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\RestSharp.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\RestSharp.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Include\footer.txt
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Include\header.txt
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Settings\twitch.txt
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe.config
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.pdb
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\RestSharp.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.Enums.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.Models.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\RestSharp.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Form1.resources
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Properties.Resources.resources
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.GenerateResource.cache
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CoreCompileInputs.cache
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CopyComplete
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.pdb
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csprojAssemblyReference.cache
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\netstandard.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.AppContext.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Concurrent.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.NonGeneric.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Collections.Specialized.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Console.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Data.Common.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Debug.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Process.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tools.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Drawing.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Dynamic.Runtime.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Calendars.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.Pipes.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Expressions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Parallel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Linq.Queryable.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Http.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NameResolution.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.NetworkInformation.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Ping.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Requests.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Security.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.Sockets.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ObjectModel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Reader.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.ResourceManager.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Resources.Writer.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Handles.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Numerics.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Claims.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.Principal.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Security.SecureString.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Text.RegularExpressions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Overlapped.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Thread.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.ThreadPool.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Threading.Timer.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.ValueTuple.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XDocument.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlDocument.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe.config
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.Enums.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.Models.dll
+F:\Users\Robert\DropBox\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Include\footer.txt
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Include\header.txt
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Settings\twitch.txt
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe.config
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.exe
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\ProtonSubMonitorProgram.pdb
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\netstandard.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.AppContext.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Collections.Concurrent.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Collections.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Collections.NonGeneric.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Collections.Specialized.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Console.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Data.Common.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Debug.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Process.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tools.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Drawing.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Dynamic.Runtime.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Calendars.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Globalization.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Globalization.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.Pipes.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Linq.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Linq.Expressions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Linq.Parallel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Linq.Queryable.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.Http.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.NameResolution.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.NetworkInformation.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.Ping.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.Requests.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.Security.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.Sockets.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Net.WebSockets.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.ObjectModel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Reflection.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Reflection.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Resources.Reader.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Resources.ResourceManager.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Resources.Writer.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Handles.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Numerics.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.Claims.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.Principal.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Security.SecureString.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Text.RegularExpressions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Threading.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Threading.Overlapped.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Threading.Thread.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Threading.ThreadPool.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Threading.Timer.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.ValueTuple.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Xml.XDocument.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlDocument.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\RestSharp.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.Enums.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Client.Models.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\TwitchLib.Communication.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\RestSharp.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csprojAssemblyReference.cache
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe.config
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Form1.resources
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.Properties.Resources.resources
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.GenerateResource.cache
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CoreCompileInputs.cache
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.csproj.CopyComplete
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.exe
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\obj\Debug\ProtonSubMonitorProgram.pdb
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Buffers.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Memory.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Buffers.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Memory.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\Robert\Dropbox\Protonjon\Neo SubList\ProtonSubMonitorProgram(BETA)\ProtonSubMonitorProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
